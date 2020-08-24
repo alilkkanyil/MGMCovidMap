@@ -83,6 +83,6 @@ while(menuChoice != 4):
             }
 
 output = json.dumps(market)
-with open("./StoreMap/data/outfile.json","w+") as outfile:
+with open("./Map/src/data/outfile.json","w+") as outfile:
     outfile.write(output)
     outfile.close()
