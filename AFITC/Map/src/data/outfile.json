@@ -74,6 +74,90 @@
           "paperTowels": "Available",
           "sanitizer": "Available"
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 2,
+          "BRAND": "Walmart Supercenter",
+          "ADDRESS": "851 Ann St, Montgomery, AL 36107",
+          "lat": 32.370603,
+          "lng": -86.268148,
+          "cannedFood": "Available",
+          "toiletPaper": "Available",
+          "paperTowels": "Available",
+          "sanitizer": "Available"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 2,
+          "BRAND": "Family Dollar",
+          "ADDRESS": "225 S Jackson St, Montgomery, AL 36104",
+          "lat": 32.374844,
+          "lng": -86.295885,
+          "cannedFood": "Available",
+          "toiletPaper": "Unavailable",
+          "paperTowels": "Available",
+          "sanitizer": "Unavailable"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 2,
+          "BRAND": "Wallgreens",
+          "ADDRESS": "2281 E South Blvd, Montgomery, AL 36116",
+          "lat": 32.327719,
+          "lng": -86.265854,
+          "cannedFood": "Available",
+          "toiletPaper": "Available",
+          "paperTowels": "Available",
+          "sanitizer": "Available"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 2,
+          "BRAND": "CVS",
+          "ADDRESS": "3190 Zelda Rd, Montgomery, AL 36106",
+          "lat": 32.352856,
+          "lng": -86.264145,
+          "cannedFood": "Available",
+          "toiletPaper": "Available",
+          "paperTowels": "Available",
+          "sanitizer": "Available"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 2,
+          "BRAND": "Dollar General",
+          "ADDRESS": "304 W Fairview Ave, Montgomery, AL 36104",
+          "lat": 32.351992,
+          "lng": -86.311730,
+          "cannedFood": "Available",
+          "toiletPaper": "Available",
+          "paperTowels": "Available",
+          "sanitizer": "Available"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 2,
+          "BRAND": "CVS",
+          "ADDRESS": "3000 Rosa L Parks Ave, Montgomery, AL 36105",
+          "lat": 32.351248,
+          "lng": -86.317043,
+          "cannedFood": "Available",
+          "toiletPaper": "Available",
+          "paperTowels": "Available",
+          "sanitizer": "Available"
+        }
       }
     ]
   }
