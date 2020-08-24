@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 1,
+          "BRAND": "Walmart",
+          "ADDRESS": "3801 Eastern Blvd, Montgomery, AL 36116",
+          "lat": 32.325857,
+          "lng": -86.232131,
+          "cannedFood": "Available",
+          "toiletPaper": "Unavailable",
+          "paperTowels": "Available",
+          "sanitizer": "Unavailable"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-86.232131, 32.325857]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "STORE_ID": 1,
+          "BRAND": "Target",
+          "ADDRESS": "2576 Berryhill Rd, Montgomery, AL 36117",
+          "lat": 32.360539,
+          "lng": -86.159903,
+          "cannedFood": "Available",
+          "toiletPaper": "Available",
+          "paperTowels": "Unavailable",
+          "sanitizer": "Unavailable"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-86.159903, 32.360539]
+        }
+      }
+    ]
+  }
