@@ -10,6 +10,7 @@ Note: Dependencies only necessary if you build the program yourself.
 * Python 3.x
 * Node.js
 * NPM
+* MongoDB
 * React.js
 * @react-google-maps
 * combobox
