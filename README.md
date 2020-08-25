@@ -3,5 +3,20 @@ This project is a web app designed to allow Montgomery, AL government to communi
 
 This project is intended to be a proof of concept and is being made for the innovate AFITC hackathon. 
 
+# Dependencies
+
+Note: Dependencies only necessary if you build the program yourself.
+
+* Python 3.x
+* Node.js
+* NPM
+* React.js
+* @react-google-maps
+* combobox
+* google-maps-infobox
+* react-google-maps
+
 # Instructions
-Placeholder segment. Will be updated once development finishes.
+
+To run the program, you can unzip the "Map.rar" file to MGMCovidMap/AFITC/Map and cd into "build" directory. In the build directory, you can start the web app with "npm start".
+Alternatively, you can use the "npm start" to start the development version or "npm run build" to build the deployment build. 
