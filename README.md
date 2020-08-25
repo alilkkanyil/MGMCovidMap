@@ -27,3 +27,5 @@ Alternatively, you can use the "npm start" to start the development version or "
 Mongodb is used to store the data for each store.  This data consists of availabilities of each item, store locations, etc.
 
 It can be be quried via the availabilities.  The responses are then converted to a format that is applied to google maps.
+
+Presentation video included above.
